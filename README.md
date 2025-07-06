@@ -1,1 +1,1 @@
-this is the codes for pyhthon internship
+this is the codes for python internship
